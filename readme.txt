@@ -1,4 +1,4 @@
-This is the GeoQuiz source code after completing chapters 1 & 2 of the Big Nerd Ranch Android Guide 2nd. Edition.
+This is the GeoQuiz source code for the Austin Droids Big Nerd Ranch Android Guide training.
 
 Slides for Chapters 1 & 2 can be found at: 
 
